@@ -112,7 +112,8 @@ body {
 @media screen and (max-width: 606px){
     .arrow_section {
         grid-template-columns: repeat(1, 1fr);
-        width: 19.7rem
+        width: 19.7rem;
+        gap: 0.5rem;
     }
 
     .second_arrow{
